@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/johnrees/front-extensions
+	branch = master
+	commit = 618e51f82a8ab44e84a3e52c30334b6025522ddf
+	parent = f51b3f1dbe9521a3b019b48ae84d62575cd033fb
+	method = merge
+	cmdver = 0.4.0
